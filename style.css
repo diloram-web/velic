@@ -1,5 +1,5 @@
 
-            body {
+           body {
                 font-family: Arial, sans-serif;
                 background-color: #f0f0f0;
                 text-align: center;
@@ -7,9 +7,17 @@
             }
     
             header {
-                background-color: #007acc;
+                background-color: #de4e79;
                 color: #fff;
-                padding: 20px 0;
+                padding: 20px 0px;
+                margin:  20px 700px;
+                width: 400px;
+                height: 40px;
+                justify-content: center;
+                align-items: center;
+                border: 2px solid rgb(47, 20, 25);
+                border-radius: 20px;
+
             }
     
             h1 {
@@ -17,20 +25,20 @@
             }
     
             .button {
-                background-color: #007acc;
+                background-color: #5e3af1;
                 color: #fff;
                 padding: 10px 20px;
                 text-decoration: none;
                 font-weight: bold;
-                border-radius: 5px;
+                border-radius: 25px;
             }
     
             .button:hover {
-                background-color: #005ba7;
+                background-color: #ea6161;
             }
     
             .footer {
-                background-color: #333;
+                background-color: #8f8d8d;
                 color: #fff;
                 padding: 20px 0;
             }
@@ -40,4 +48,5 @@
                 text-decoration: none;
                 margin: 0 10px;
             }
+        
         
